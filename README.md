@@ -4,6 +4,12 @@
 
 This is a MERN stack application from the "MERN Stack Front To Back" course on [Udemy](https://www.udemy.com/mern-stack-front-to-back/?couponCode=TRAVERSYMEDIA) by Brad Traversy. It is a small social network app that includes authentication, profiles and forum posts.
 
+# Images
+
+> ### Homepage
+
+> ![homepage](https://user-images.githubusercontent.com/75185644/128660327-0caf1ea4-e379-461b-b958-0869eefe9cf3.PNG)
+
 # Functionalities
 
 - Without authentication, users may view the profile of other users, login or register on the app. Once authenticated, users will be able to reach the posts and dashboard pages, which are protected routes.
